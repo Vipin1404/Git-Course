@@ -1,7 +1,7 @@
 //This class created for testing purpose
 class Sample{
 
-int a=12;
+int a=20;
 
 public static void main{
 

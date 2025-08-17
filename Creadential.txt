@@ -1,0 +1,3 @@
+##Sample creadential
+username =vipin1404
+password= vipin
